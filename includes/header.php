@@ -1,12 +1,7 @@
 <?php ?>
-/**
- * Created by PhpStorm.
- * User: Zhuravskiy
- * Date: 08.01.15
- * Time: 18:31
- */
+<div id="header">
 
-
-<header class="header">
-    <strong>Header:</strong> Python уроки
-</header><!-- .header-->
+   <div id="div_font">
+       <h2 style="color: #f4dd5b"> Python уроки </h2>
+   </div>
+</div><!-- .header-->
