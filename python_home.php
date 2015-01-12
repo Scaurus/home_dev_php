@@ -13,7 +13,7 @@
 <body>
 <div id="maket">
 	<div id="header">Шапка</div>
-	<div id="left">Левая колонка
+	<div id="left">Левая колонка!
 		<ul>
 			<li><a href="#">Главная</a></li>
 			<li><a href="#">Новости</a></li>
