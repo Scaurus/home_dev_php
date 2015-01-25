@@ -1,0 +1,8 @@
+������
+
+    ��� ����� duck typing? http://en.wikipedia.org/wiki/Duck_typing
+    http://docs.python.org/tutorial/introduction.html
+    http://docs.python.org/library/stdtypes.html
+    ������ ������� ���� � ���������� �� python https://github.com/karan/Projects
+    ��������� ����������� � �������� http://matthiaseisen.com/fwl/py/
+    ��������� ����������� � ��������� http://matthiaseisen.com/pp/topics/t022/
